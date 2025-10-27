@@ -1,4 +1,4 @@
-| Exercise type | Subtask type | Question content |
+| Exercise type | Subtask type | Question content | Question content |
 | :------------ | :----------- | :--------------- |
 | Theoretical              | Multiple choice             | What is the main purpose of Dijkstra’s algorithm?                 |
 | Theoretical              | Drag and drop (text)        | Drag the steps of Dijkstra’s algorithm in the correct order                 |
@@ -9,9 +9,9 @@
 | Practical                | Fillin (dropdown)           | Fill the gap in the code                 |
 | Practical                | Fillin                      | Given a node and its edges, relax the edges and calculate the new distances                 |
 | Practical                | Drag and drop (text)        | What are some practical applications you could give Dijkstra in real life?                 |
-|               |              |                  |
-|               |              |                  |
-|               |              |                  |
+| Dynamic Practical        |              |                  |
+| Dynamic Practical        |              |                  |
+| Dynamic Practical        |              |                  |
 |               |              |                  |
 |               |              |                  |
 |               |              |                  |
