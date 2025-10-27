@@ -8,7 +8,7 @@
 | Practical                | Fillin                      | Given an initial situation and the next step, calculate the new distances?                 | [ ] |
 | Practical                | Fillin (dropdown)           | Fill the gap in the code                 | [ X ] |
 | Practical                | Fillin                      | Given a node and its edges, relax the edges and calculate the new distances                 | [ X ] |
-| Practical                | Drag and drop (text)        | What are some practical applications you could give Dijkstra in real life?                 | [ ] |
+| Practical                | Drag and drop (text)        | What are some practical applications you could give Dijkstra in real life?                 | [ X ] |
 | Dynamic Practical        |              |                  | [ ] |
 | Dynamic Practical        |              |                  | [ ] |
 | Dynamic Practical        |              |                  | [ ] |
