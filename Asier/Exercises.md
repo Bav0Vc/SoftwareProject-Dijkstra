@@ -1,5 +1,5 @@
 | Exercise type | Subtask type | Question content | Feedback done? |
-| :------------ | :----------- | :--------------- |
+| :------------ | :----------- | :--------------- | :------------- |
 | Theoretical              | Multiple choice             | What is the main purpose of Dijkstra’s algorithm?                 | [ ] |
 | Theoretical              | Drag and drop (text)        | Drag the steps of Dijkstra’s algorithm in the correct order                 | [ ] |
 | Theoretical              | Fillin (dropdown)           | What data structure is often used?                 | [ ] |
