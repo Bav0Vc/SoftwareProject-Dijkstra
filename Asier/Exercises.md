@@ -10,6 +10,7 @@
 | Practical                | Fillin                      | Given a node and its edges, relax the edges and calculate the new distances                 | [ X ] |
 | Practical                | Drag and drop (text)        | What are some practical applications you could give Dijkstra in real life?                 | [ X ] |
 | Practical                 | Fillin (Dropdown)          | Given a map (graph) which will be the next to cities to be visited? | [ X ] |
-| Dynamic Practical        |              |                  | [ ] |
-| Dynamic Practical        |              |                  | [ ] |
-| Dynamic Practical        |              |                  | [ ] |
+| Dynamic Practical        | Multiple choice             | Is this the best path possible to go from A to B?          | [ X ] |
+| Dynamic Practical        | Drag and drop (text)        | Drag nodes in the correct order                 | [ X ] |
+| Dynamic Practical        | Fillin                      | What's the distance of the best path?                 | [ X ] |
+
