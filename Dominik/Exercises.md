@@ -17,7 +17,7 @@
 | theoretical | Drag and Drop | Imagine Dijkstra's algorithm is a machine. Sort the items: Are they raw materials you put IN, or results that come OUT?                 |
 | theoretical | Drag and Drop | While Dijkstra's algorithm is running: Which data changes constantly, and which data stays fixed (never changes)?                 |
 | dynamic     | Fillin        | Find the shortest path from x to x.                 |
-| dynamic     | Fillin        | Determine the shortest path from [var=source_question_7] to [var=target_question_7].
+| dynamic     | Fillin        | Determine the shortest path from x to x.How many edges (hops) does this path consist of?                 |
+| theoretical | Multiple Choice  | What is the logical consequence for the algorithm if you change the < symbol to > in Line 3?                 |
+| theoretical | Multiple Choice  | If you delete Line 5 (so dist[StartNode] remains infinity), what happens when the loop runs for the first time?                 |
 
-How many edges (hops) does this path consist of?                 |
-|               |              |                  |
