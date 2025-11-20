@@ -5,7 +5,12 @@
 | Theoretical              | Fillin (dropdown)           | What data structure is often used?                 | [ X ] |
 | Theoretical              | Multiple choice             | Dijkstra true or false                 | [ X ] |
 | Theoretical              | Multiple choice             | What are some practical applications you could give Dijkstra in real life?                 | [ X ] |
+| Theoretical              | Multiple choice             | Why does Dijkstra mark a node as permanent?                        | [ ] | AAAAAAAAAAAAAAAAAAAAAAAA 5555
+| Theoretical              | Multiple choice             | What happens if two nodes have the same minimum tentative distance?                | [ ] | AAAAAAAAAAAAAAAAAAAAAAAA 66
+| Theoretical              | Drag and drop (text)        | Match the concept with the definition                       | [ ] | AAAAAAAAAAAAAAAAAAAAAAAA 77
+| Theoretical              | Multiple choice             | What is required before running Dijkstra?                        | [ ] | AAAAAAAAAAAAAAAAAAAAAAAA 999
 | Practical                | Fillin                      | Given an initial situation and the next step, calculate the new distances?                 | [ ] |
+| Practical                | Multiple choice             | In which of these graphs you cannot use Dijkstra?                 | [ ] | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 | Practical                | Fillin (dropdown)           | Fill the gap in the code                 | [ X ] |
 | Practical                | Fillin                      | Given a node and its edges, relax the edges and calculate the new distances                 | [ X ] |
 | Practical                | Drag and drop (text)        | What are some practical applications you could give Dijkstra in real life?                 | [ X ] |
